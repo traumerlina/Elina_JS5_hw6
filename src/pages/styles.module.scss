@@ -1,0 +1,24 @@
+.main{
+    margin-top: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.foot{
+    margin-left: 20px;
+}
+.emoji{
+    color: rgb(29, 161, 163);
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+}
+.title {
+    color: rgb(29, 161, 163);
+    font-size: 50px;
+}
+button {
+    border-radius: 20px;
+    border-color: rgb(29, 161, 163);
+    background-color: white;
+}
